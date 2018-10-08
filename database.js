@@ -1,5 +1,5 @@
 //ARTISTS (NO REPEAT)
-var Artists = {
+var DatabaseArtists = {
   1 : "Fall Out Boy",
   2 : "Post Malone",
   3 : "Logic",
@@ -28,7 +28,7 @@ var Artists = {
 }
 
 //ALBUMS
-var SongNames = [{
+var DatabaseMusic = [{
   "title": "Mania",
   "artist": Artists[1],
   "artwork": "artwork",
