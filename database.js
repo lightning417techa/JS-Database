@@ -29,9 +29,7 @@ var DatabaseArtists = {
 
 //ALBUMS
 var DatabaseMusic =  [{
-	"title": "Mania",
-	"artist": "Fall Out Boy",
-	"artwork": "https://images-na.ssl-images-amazon.com/images/I/41K3SuHNQpL._SS500.jpg",
+	"title": "Mania", "artist": "Fall Out Boy", "artwork": "https://images-na.ssl-images-amazon.com/images/I/41K3SuHNQpL._SS500.jpg",
 	"tracks": [{
 		"title": "Stay Frosty Royal Milk Tea", "Source": "https://iplock.weebly.com/uploads/9/5/7/3/95731436/fall_out_boy_-_bishops_knife_trick__lyrics_lyric_video_.mp3", "SongArt": "https://images-na.ssl-images-amazon.com/images/I/41K3SuHNQpL._SS500.jpg", "artist": "Fall Out Boy", "explicit": false
 	 }, {
@@ -54,9 +52,7 @@ var DatabaseMusic =  [{
 		"title": "Bishops Knife Trick", "Source": "test", "SongArt": "https://images-na.ssl-images-amazon.com/images/I/41K3SuHNQpL._SS500.jpg", "artist": "Fall Out Boy", "explicit": false
 	}]
 }, {
-	"title": "American Beauty/American Psycho",
-	"artist": "Fall Out Boy",
-	"artwork": "https://images-na.ssl-images-amazon.com/images/I/41K3SuHNQpL._SS500.jpg",
+	"title": "American Beauty/American Psycho", "artist": "Fall Out Boy", "artwork": "https://images-na.ssl-images-amazon.com/images/I/41K3SuHNQpL._SS500.jpg",
 	"tracks": [{
 		"title": "Irresistible", "Source": "", "SongArt": "https://upload.wikimedia.org/wikipedia/en/b/b6/American_Beauty_American_Psycho_cover.png", "artist": "Fall Out Boy", "explicit": false
 	 }, {
@@ -81,9 +77,82 @@ var DatabaseMusic =  [{
 		"title": "Twin Skeleton's (Hotel in NYC)", "Source": "", "SongArt": "https://upload.wikimedia.org/wikipedia/en/b/b6/American_Beauty_American_Psycho_cover.png", "artist": "Fall Out Boy","explicit": false
 	 }]
 }, {
-	"title": "",
-	"artist": "",
-	"artwork": "",
+	"title": "", "artist": "", "artwork": "",
+	"tracks": [{
+		"title": "", "Source": "", "SongArt": "", "artist": "", "explicit": false
+	 }, {
+		"title": "", "Source": "", "SongArt": "", "artist": "", "explicit": false
+	 }, {
+		"title": "", "Source": "", "SongArt": "", "artist": "", "explicit": false
+	 }, {
+	        "title": "", "Source": "", "SongArt": "", "artist": "", "explicit": false
+	 }, {
+	        "title": "", "Source": "", "SongArt": "", "artist": "", "explicit": false
+	 }, {
+		"title": "", "Source": "", "SongArt": "", "artist": "", "explicit": false
+	 }, {
+		"title": "", "Source": "", "SongArt": "", "artist": "", "explicit": false
+	 }, {
+		"title": "", "Source": "", "SongArt": "", "artist": "", "explicit": false
+	 }, {
+	        "title": "", "Source": "", "SongArt": "", "artist": "", "explicit": false
+	 }, {
+		"title": "", "Source": "", "SongArt": "", "artist": "", "explicit": false
+	 }, {
+		"title": "", "Source": "", "SongArt": "", "artist": "", "explicit": false
+	 }]
+}, {
+	"title": "", "artist": "", "artwork": "",
+	"tracks": [{
+		"title": "", "Source": "", "SongArt": "", "artist": "", "explicit": false
+	 }, {
+		"title": "", "Source": "", "SongArt": "", "artist": "", "explicit": false
+	 }, {
+		"title": "", "Source": "", "SongArt": "", "artist": "", "explicit": false
+	 }, {
+	        "title": "", "Source": "", "SongArt": "", "artist": "", "explicit": false
+	 }, {
+	        "title": "", "Source": "", "SongArt": "", "artist": "", "explicit": false
+	 }, {
+		"title": "", "Source": "", "SongArt": "", "artist": "", "explicit": false
+	 }, {
+		"title": "", "Source": "", "SongArt": "", "artist": "", "explicit": false
+	 }, {
+		"title": "", "Source": "", "SongArt": "", "artist": "", "explicit": false
+	 }, {
+	        "title": "", "Source": "", "SongArt": "", "artist": "", "explicit": false
+	 }, {
+		"title": "", "Source": "", "SongArt": "", "artist": "", "explicit": false
+	 }, {
+		"title": "", "Source": "", "SongArt": "", "artist": "", "explicit": false
+	 }]
+}, {
+	"title": "", "artist": "", "artwork": "",
+	"tracks": [{
+		"title": "", "Source": "", "SongArt": "", "artist": "", "explicit": false
+	 }, {
+		"title": "", "Source": "", "SongArt": "", "artist": "", "explicit": false
+	 }, {
+		"title": "", "Source": "", "SongArt": "", "artist": "", "explicit": false
+	 }, {
+	        "title": "", "Source": "", "SongArt": "", "artist": "", "explicit": false
+	 }, {
+	        "title": "", "Source": "", "SongArt": "", "artist": "", "explicit": false
+	 }, {
+		"title": "", "Source": "", "SongArt": "", "artist": "", "explicit": false
+	 }, {
+		"title": "", "Source": "", "SongArt": "", "artist": "", "explicit": false
+	 }, {
+		"title": "", "Source": "", "SongArt": "", "artist": "", "explicit": false
+	 }, {
+	        "title": "", "Source": "", "SongArt": "", "artist": "", "explicit": false
+	 }, {
+		"title": "", "Source": "", "SongArt": "", "artist": "", "explicit": false
+	 }, {
+		"title": "", "Source": "", "SongArt": "", "artist": "", "explicit": false
+	 }]
+}, {
+	"title": "", "artist": "", "artwork": "",
 	"tracks": [{
 		"title": "", "Source": "", "SongArt": "", "artist": "", "explicit": false
 	 }, {
