@@ -80,4 +80,31 @@ var DatabaseMusic =  [{
 	 }, {
 		"title": "Twin Skeleton's (Hotel in NYC)", "Source": "", "SongArt": "https://upload.wikimedia.org/wikipedia/en/b/b6/American_Beauty_American_Psycho_cover.png", "artist": "Fall Out Boy","explicit": false
 	 }]
+}, {
+	"title": "",
+	"artist": "",
+	"artwork": "",
+	"tracks": [{
+		"title": "", "Source": "", "SongArt": "", "artist": "", "explicit": false
+	 }, {
+		"title": "", "Source": "", "SongArt": "", "artist": "", "explicit": false
+	 }, {
+		"title": "", "Source": "", "SongArt": "", "artist": "", "explicit": false
+	 }, {
+	        "title": "", "Source": "", "SongArt": "", "artist": "", "explicit": false
+	 }, {
+	        "title": "", "Source": "", "SongArt": "", "artist": "", "explicit": false
+	 }, {
+		"title": "", "Source": "", "SongArt": "", "artist": "", "explicit": false
+	 }, {
+		"title": "", "Source": "", "SongArt": "", "artist": "", "explicit": false
+	 }, {
+		"title": "", "Source": "", "SongArt": "", "artist": "", "explicit": false
+	 }, {
+	        "title": "", "Source": "", "SongArt": "", "artist": "", "explicit": false
+	 }, {
+		"title": "", "Source": "", "SongArt": "", "artist": "", "explicit": false
+	 }, {
+		"title": "", "Source": "", "SongArt": "", "artist": "", "explicit": false
+	 }]
 }];
