@@ -58,9 +58,9 @@ var DatabaseMusic =  [{
 	"artist": "Fall Out Boy",
 	"artwork": "https://images-na.ssl-images-amazon.com/images/I/41K3SuHNQpL._SS500.jpg",
 	"tracks": [{
-		"title": "Irresistible", "Source": "", "SongArt": "", "artist": "Fall Out Boy", "explicit": false
+		"title": "Irresistible", "Source": "", "SongArt": "https://upload.wikimedia.org/wikipedia/en/b/b6/American_Beauty_American_Psycho_cover.png", "artist": "Fall Out Boy", "explicit": false
 	 }, {
-		"title": "American Beauty/American Psycho", "Source": "", "SongArt": "", "artist": "Fall Out Boy", "explicit": false		 
+		"title": "American Beauty/American Psycho", "Source": "", "SongArt": "https://upload.wikimedia.org/wikipedia/en/b/b6/American_Beauty_American_Psycho_cover.png", "artist": "Fall Out Boy", "explicit": false		 
 	 }, {
 		"title": "Centuries", "Source": "", "SongArt": "https://upload.wikimedia.org/wikipedia/en/b/b6/American_Beauty_American_Psycho_cover.png", "artist": "Fall Out Boy", "explicit": false
 	 }, {
