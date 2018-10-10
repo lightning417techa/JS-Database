@@ -62,54 +62,22 @@ var DatabaseMusic =  [{
 	 }, {
 		"title": "American Beauty/American Psycho", "Source": "", "SongArt": "", "artist": "Fall Out Boy", "explicit": false		 
 	 }, {
-		"title": "Centuries", "Source": "", "SongArt": "", "artist": "Fall Out Boy", "explicit": false
+		"title": "Centuries", "Source": "", "SongArt": "https://upload.wikimedia.org/wikipedia/en/b/b6/American_Beauty_American_Psycho_cover.png", "artist": "Fall Out Boy", "explicit": false
 	 }, {
-	  "title": "The Kids Aren't Alright",
-		"Source": "",
-		"SongArt": "",
-		"artist": "Fall Out Boy",
-		"explicit": false
+	        "title": "The Kids Aren't Alright", "Source": "", "SongArt": "https://upload.wikimedia.org/wikipedia/en/b/b6/American_Beauty_American_Psycho_cover.png", "artist": "Fall Out Boy", "explicit": false
 	 }, {
-	        "title": "Uma Thurman",
-		"Source": "",
-		"SongArt": "",
-		"artist": "Fall Out Boy",
-		"explicit": false
+	        "title": "Uma Thurman", "Source": "", "SongArt": "https://upload.wikimedia.org/wikipedia/en/b/b6/American_Beauty_American_Psycho_cover.png", "artist": "Fall Out Boy", "explicit": false
 	 }, {
-		"title": "Jet Pack Blues",
-		"Source": "",
-		"SongArt": "",
-		"artist": "Fall Out Boy",
-		"explicit": false		 
+		"title": "Jet Pack Blues", "Source": "", "SongArt": "https://upload.wikimedia.org/wikipedia/en/b/b6/American_Beauty_American_Psycho_cover.png", "artist": "Fall Out Boy", "explicit": false		 
 	 }, {
-		"title": "Novocaine",
-		"Source": "",
-		"SongArt": "",
-		"artist": "Fall Out Boy",
-		"explicit": false
+		"title": "Novocaine", "Source": "", "SongArt": "https://upload.wikimedia.org/wikipedia/en/b/b6/American_Beauty_American_Psycho_cover.png", "artist": "Fall Out Boy", "explicit": false
 	 }, {
-		 "title": "Fourth of July",
-		"Source": "",
-		"SongArt": "",
-		"artist": "Fall Out Boy",
-		"explicit": false
+		"title": "Fourth of July", "Source": "", "SongArt": "https://upload.wikimedia.org/wikipedia/en/b/b6/American_Beauty_American_Psycho_cover.png", "artist": "Fall Out Boy", "explicit": false
 	 }, {
-	        "title": "Favorite Record",
-		"Source": "",
-		"SongArt": "",
-		"artist": "Fall Out Boy",
-		"explicit": false		 
+	        "title": "Favorite Record", "Source": "", "SongArt": "https://upload.wikimedia.org/wikipedia/en/b/b6/American_Beauty_American_Psycho_cover.png", "artist": "Fall Out Boy", "explicit": false		 
 	 }, {
-		"title": "Immortals",
-		"Source": "",
-		"SongArt": "",
-		"artist": "Fall Out Boy",
-		"explicit": false
+		"title": "Immortals", "Source": "", "SongArt": "https://upload.wikimedia.org/wikipedia/en/b/b6/American_Beauty_American_Psycho_cover.png", "artist": "Fall Out Boy", "explicit": false
 	 }, {
-		 "title": "Twin Skeleton's (Hotel in NYC)",
-		"Source": "",
-		"SongArt": "",
-		"artist": "Fall Out Boy",
-		"explicit": false
+		"title": "Twin Skeleton's (Hotel in NYC)", "Source": "", "SongArt": "https://upload.wikimedia.org/wikipedia/en/b/b6/American_Beauty_American_Psycho_cover.png", "artist": "Fall Out Boy","explicit": false
 	 }]
 }];
