@@ -1,6 +1,5 @@
 //ARTISTS (NO REPEAT)
-var DatabaseArtists = {
-  1 : "Fall Out Boy",
+  /*1 : "Fall Out Boy",
   2 : "Post Malone",
   3 : "Logic",
   4 : "Marshmello",
@@ -24,8 +23,7 @@ var DatabaseArtists = {
   22 : "Lil Pump",
   23 : "Vomiting Pug",
   24 : "Alan Walker",
-  25 : "MKTO"
-}
+  25 : "MKTO"*/
 
 //ALBUMS
 var DatabaseMusic =  [{
@@ -77,29 +75,31 @@ var DatabaseMusic =  [{
 		"title": "Twin Skeleton's (Hotel in NYC)", "Source": "", "SongArt": "https://upload.wikimedia.org/wikipedia/en/b/b6/American_Beauty_American_Psycho_cover.png", "artist": "Fall Out Boy","explicit": false
 	 }]
 }, {
-	"title": "", "artist": "", "artwork": "",
+	"title": "Vessel", "artist": "Twenty on Pilots", "artwork": "",
 	"tracks": [{
-		"title": "", "Source": "", "SongArt": "", "artist": "", "explicit": false
+		"title": "Ode to Sleep", "Source": "", "SongArt": "", "artist": "", "explicit": false
 	 }, {
-		"title": "", "Source": "", "SongArt": "", "artist": "", "explicit": false
+		"title": "Holding on to You", "Source": "", "SongArt": "", "artist": "", "explicit": false
 	 }, {
-		"title": "", "Source": "", "SongArt": "", "artist": "", "explicit": false
+		"title": "Migraine", "Source": "", "SongArt": "", "artist": "", "explicit": false
 	 }, {
-	        "title": "", "Source": "", "SongArt": "", "artist": "", "explicit": false
+	        "title": "House of Gold", "Source": "", "SongArt": "", "artist": "", "explicit": false
 	 }, {
-	        "title": "", "Source": "", "SongArt": "", "artist": "", "explicit": false
+	        "title": "Car Radio", "Source": "", "SongArt": "", "artist": "", "explicit": false
 	 }, {
-		"title": "", "Source": "", "SongArt": "", "artist": "", "explicit": false
+		"title": "Semi-Automatic", "Source": "", "SongArt": "", "artist": "", "explicit": false
 	 }, {
-		"title": "", "Source": "", "SongArt": "", "artist": "", "explicit": false
+		"title": "Screen", "Source": "", "SongArt": "", "artist": "", "explicit": false
 	 }, {
-		"title": "", "Source": "", "SongArt": "", "artist": "", "explicit": false
+		"title": "The Run and Go", "Source": "", "SongArt": "", "artist": "", "explicit": false
 	 }, {
-	        "title": "", "Source": "", "SongArt": "", "artist": "", "explicit": false
+	        "title": "Fake You Out", "Source": "", "SongArt": "", "artist": "", "explicit": false
 	 }, {
-		"title": "", "Source": "", "SongArt": "", "artist": "", "explicit": false
+		"title": "Guns for Hands", "Source": "", "SongArt": "", "artist": "", "explicit": false
 	 }, {
-		"title": "", "Source": "", "SongArt": "", "artist": "", "explicit": false
+		"title": "Trees", "Source": "", "SongArt": "", "artist": "", "explicit": false
+	 }, {
+		"title": "Truce", "Source": "", "SongArt": "", "artist": "", "explicit": false
 	 }]
 }, {
 	"title": "", "artist": "", "artwork": "",
