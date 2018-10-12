@@ -81,15 +81,15 @@ var DatabaseMusic =  [{
 	 }, {
 		"title": "Holding on to You", "Source": "", "SongArt": "https://images-na.ssl-images-amazon.com/images/I/41%2BCuqqyyvL.jpg", "artist": "", "explicit": false
 	 }, {
-		"title": "Migraine", "Source": "", "SongArt": "", "artist": "https://images-na.ssl-images-amazon.com/images/I/41%2BCuqqyyvL.jpg", "explicit": false
+		"title": "Migraine", "Source": "", "SongArt": "https://images-na.ssl-images-amazon.com/images/I/41%2BCuqqyyvL.jpg", "artist": "", "explicit": false
 	 }, {
-	        "title": "House of Gold", "Source": "", "SongArt": "", "artist": "https://images-na.ssl-images-amazon.com/images/I/41%2BCuqqyyvL.jpg", "explicit": false
+	        "title": "House of Gold", "Source": "", "SongArt": "https://images-na.ssl-images-amazon.com/images/I/41%2BCuqqyyvL.jpg", "artist": "", "explicit": false
 	 }, {
-	        "title": "Car Radio", "Source": "", "SongArt": "", "artist": "https://images-na.ssl-images-amazon.com/images/I/41%2BCuqqyyvL.jpg", "explicit": false
+	        "title": "Car Radio", "Source": "", "SongArt": "https://images-na.ssl-images-amazon.com/images/I/41%2BCuqqyyvL.jpg", "artist": "", "explicit": false
 	 }, {
-		"title": "Semi-Automatic", "Source": "", "SongArt": "", "artist": "https://images-na.ssl-images-amazon.com/images/I/41%2BCuqqyyvL.jpg", "explicit": false
+		"title": "Semi-Automatic", "Source": "", "SongArt": "https://images-na.ssl-images-amazon.com/images/I/41%2BCuqqyyvL.jpg", "artist": "", "explicit": false
 	 }, {
-		"title": "Screen", "Source": "", "SongArt": "", "artist": "https://images-na.ssl-images-amazon.com/images/I/41%2BCuqqyyvL.jpg", "explicit": false
+		"title": "Screen", "Source": "", "SongArt": "https://images-na.ssl-images-amazon.com/images/I/41%2BCuqqyyvL.jpg", "artist": "", "explicit": false
 	 }, {
 		"title": "The Run and Go", "Source": "", "SongArt": "https://images-na.ssl-images-amazon.com/images/I/41%2BCuqqyyvL.jpg", "artist": "", "explicit": false
 	 }, {
@@ -97,9 +97,9 @@ var DatabaseMusic =  [{
 	 }, {
 		"title": "Guns for Hands", "Source": "", "SongArt": "https://images-na.ssl-images-amazon.com/images/I/41%2BCuqqyyvL.jpg", "artist": "", "explicit": false
 	 }, {
-		"title": "Trees", "Source": "", "SongArt": "", "artist": "", "explicit": false
+		"title": "Trees", "Source": "", "SongArt": "https://images-na.ssl-images-amazon.com/images/I/41%2BCuqqyyvL.jpg", "artist": "", "explicit": false
 	 }, {
-		"title": "Truce", "Source": "", "SongArt": "", "artist": "", "explicit": false
+		"title": "Truce", "Source": "", "SongArt": "https://images-na.ssl-images-amazon.com/images/I/41%2BCuqqyyvL.jpg", "artist": "", "explicit": false
 	 }]
 }, {
 	"title": "", "artist": "", "artwork": "",
