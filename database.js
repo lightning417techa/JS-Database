@@ -77,29 +77,29 @@ var DatabaseMusic =  [{
 }, {
 	"title": "Vessel", "artist": "Twenty on Pilots", "artwork": "https://images-na.ssl-images-amazon.com/images/I/41%2BCuqqyyvL.jpg",
 	"tracks": [{
-		"title": "Ode to Sleep", "Source": "", "SongArt": "https://images-na.ssl-images-amazon.com/images/I/41%2BCuqqyyvL.jpg", "artist": "", "explicit": false
+		"title": "Ode to Sleep", "Source": "https://iplock.weebly.com/uploads/9/5/7/3/95731436/ode_to_sleep_mp3.mp3", "SongArt": "https://images-na.ssl-images-amazon.com/images/I/41%2BCuqqyyvL.jpg", "artist": "Twenty on Pilots", "explicit": false
 	 }, {
-		"title": "Holding on to You", "Source": "", "SongArt": "https://images-na.ssl-images-amazon.com/images/I/41%2BCuqqyyvL.jpg", "artist": "", "explicit": false
+		"title": "Holding on to You", "Source": "", "SongArt": "https://images-na.ssl-images-amazon.com/images/I/41%2BCuqqyyvL.jpg", "artist": "Twenty on Pilots", "explicit": false
 	 }, {
-		"title": "Migraine", "Source": "", "SongArt": "https://images-na.ssl-images-amazon.com/images/I/41%2BCuqqyyvL.jpg", "artist": "", "explicit": false
+		"title": "Migraine", "Source": "", "SongArt": "https://images-na.ssl-images-amazon.com/images/I/41%2BCuqqyyvL.jpg", "artist": "Twenty on Pilots", "explicit": false
 	 }, {
-	        "title": "House of Gold", "Source": "", "SongArt": "https://images-na.ssl-images-amazon.com/images/I/41%2BCuqqyyvL.jpg", "artist": "", "explicit": false
+	        "title": "House of Gold", "Source": "", "SongArt": "https://images-na.ssl-images-amazon.com/images/I/41%2BCuqqyyvL.jpg", "artist": "Twenty on Pilots", "explicit": false
 	 }, {
-	        "title": "Car Radio", "Source": "", "SongArt": "https://images-na.ssl-images-amazon.com/images/I/41%2BCuqqyyvL.jpg", "artist": "", "explicit": false
+	        "title": "Car Radio", "Source": "", "SongArt": "https://images-na.ssl-images-amazon.com/images/I/41%2BCuqqyyvL.jpg", "artist": "Twenty on Pilots", "explicit": false
 	 }, {
-		"title": "Semi-Automatic", "Source": "", "SongArt": "https://images-na.ssl-images-amazon.com/images/I/41%2BCuqqyyvL.jpg", "artist": "", "explicit": false
+		"title": "Semi-Automatic", "Source": "", "SongArt": "https://images-na.ssl-images-amazon.com/images/I/41%2BCuqqyyvL.jpg", "artist": "Twenty on Pilots", "explicit": false
 	 }, {
-		"title": "Screen", "Source": "", "SongArt": "https://images-na.ssl-images-amazon.com/images/I/41%2BCuqqyyvL.jpg", "artist": "", "explicit": false
+		"title": "Screen", "Source": "", "SongArt": "https://images-na.ssl-images-amazon.com/images/I/41%2BCuqqyyvL.jpg", "artist": "Twenty on Pilots", "explicit": false
 	 }, {
-		"title": "The Run and Go", "Source": "", "SongArt": "https://images-na.ssl-images-amazon.com/images/I/41%2BCuqqyyvL.jpg", "artist": "", "explicit": false
+		"title": "The Run and Go", "Source": "", "SongArt": "https://images-na.ssl-images-amazon.com/images/I/41%2BCuqqyyvL.jpg", "artist": "Twenty on Pilots", "explicit": false
 	 }, {
-	        "title": "Fake You Out", "Source": "", "SongArt": "https://images-na.ssl-images-amazon.com/images/I/41%2BCuqqyyvL.jpg", "artist": "", "explicit": false
+	        "title": "Fake You Out", "Source": "https://iplock.weebly.com/uploads/9/5/7/3/95731436/fake_you_out.mp3", "SongArt": "https://images-na.ssl-images-amazon.com/images/I/41%2BCuqqyyvL.jpg", "artist": "Twenty on Pilots", "explicit": false
 	 }, {
-		"title": "Guns for Hands", "Source": "", "SongArt": "https://images-na.ssl-images-amazon.com/images/I/41%2BCuqqyyvL.jpg", "artist": "", "explicit": false
+		"title": "Guns for Hands", "Source": "https://iplock.weebly.com/uploads/9/5/7/3/95731436/guns_for_hands_instrumental_mp3.mp3", "SongArt": "https://images-na.ssl-images-amazon.com/images/I/41%2BCuqqyyvL.jpg", "artist": "Twenty on Pilots", "explicit": false
 	 }, {
-		"title": "Trees", "Source": "", "SongArt": "https://images-na.ssl-images-amazon.com/images/I/41%2BCuqqyyvL.jpg", "artist": "", "explicit": false
+		"title": "Trees", "Source": "", "SongArt": "https://images-na.ssl-images-amazon.com/images/I/41%2BCuqqyyvL.jpg", "artist": "Twenty on Pilots", "explicit": false
 	 }, {
-		"title": "Truce", "Source": "", "SongArt": "https://images-na.ssl-images-amazon.com/images/I/41%2BCuqqyyvL.jpg", "artist": "", "explicit": false
+		"title": "Truce", "Source": "", "SongArt": "https://images-na.ssl-images-amazon.com/images/I/41%2BCuqqyyvL.jpg", "artist": "Twenty on Pilots", "explicit": false
 	 }]
 }, {
 	"title": "", "artist": "", "artwork": "",
